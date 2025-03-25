@@ -8,7 +8,7 @@ Este es un proyecto básico de React con Vite para iniciar rápidamente una apli
    
    ```sh
    git clone https://github.com/CLA-TC2005B-FJ2025/A01567189-TestReact.git
-   cd test-react
+   cd A01567189-TestReact
    ```
 
 2. Instala las dependencias:
